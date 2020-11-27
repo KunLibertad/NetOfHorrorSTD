@@ -17,12 +17,18 @@ Screenshots:
 Credits:
 
 Developed by Marco Antonio Guerrero Lopez (AKA KunLibertad)
+
 PixelArt for the Enemy/Event preview by panstasz
+
 INIParser library by Ricardo Amores Hernández
+
 Squid-Box.SevenZipSharp by Joel Ahlgren, Thomas Piart, markhor and Thomas Caudal
+
 7z libraries by Igor Pavlov
 
 Thanks to Haspen for creating a useful documentation about the Ito File, Event and Enemies specifications
+
 Thanks to KDD for her feedback about UTF-8 Encoding.
+
 
 Feedback and support provided by the amazing World of Horror Discord server!
