@@ -6,7 +6,9 @@ Written in Visual Basic.NET for the Microsoft .NET Framework 4.7.2
 Features:
 
 A preview for both event an enemies
+
 Custom color palletes
+
 Compress event and enemies into a .zip file for mod distribution
 
 Screenshots:
