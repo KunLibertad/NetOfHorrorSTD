@@ -3,7 +3,7 @@ NetOfHorror is a MDI (Mutiple document interface) event / enemy editor for the g
 
 Written in Visual Basic.NET for the Microsoft .NET Framework 4.7.2
 
-Features
+Features:
 
 A preview for both event an enemies
 Custom color palletes
@@ -14,7 +14,8 @@ Screenshots:
 <img src="https://i.imgur.com/Qow5VtB.png">
 <img src="https://i.imgur.com/fVZAz5y.png">
 
-Credits
+Credits:
+
 Developed by Marco Antonio Guerrero Lopez (AKA KunLibertad)
 PixelArt for the Enemy/Event preview by panstasz
 INIParser library by Ricardo Amores Hernández
