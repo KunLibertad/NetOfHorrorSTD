@@ -28,6 +28,10 @@ Squid-Box.SevenZipSharp by Joel Ahlgren, Thomas Piart, markhor and Thomas Caudal
 
 7z libraries by Igor Pavlov
 
+Cyotek.Windows.Forms.ColorPicker by Cyotek Ltd.
+
+
+
 Thanks to Haspen for creating a useful documentation about the Ito File, Event and Enemies specifications
 
 Thanks to KDD for her feedback about UTF-8 Encoding.
