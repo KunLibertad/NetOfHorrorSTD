@@ -7,7 +7,7 @@ Features:
 
 A preview for both event an enemies
 
-Custom color palletes
+Custom color palettes
 
 Compress event and enemies into a .zip file for mod distribution
 
